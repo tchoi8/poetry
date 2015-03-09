@@ -1,11 +1,12 @@
-Poetry
-comes
-in
-an 
+Poetry  
+come  
+in  
+an  
 envelope.
 
-Diary
-comes
-in
-a
+
+Diary  
+comes  
+in  
+a  
 Package.

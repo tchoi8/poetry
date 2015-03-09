@@ -1,5 +1,5 @@
-Poetry 
-is my
-thinking 
-of you.
+Poetry  
+is my  
+thinking  
+of you.  
 unwritten.

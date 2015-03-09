@@ -1,11 +1,12 @@
-Poetry
-does 
-not 
-write
+Poetry  
+does  
+not  
+write  
 itself.
 
-Poetry finds
-a place
-it 
-can 
+Poetry  
+finds  
+a place  
+it  
+can  
 be.

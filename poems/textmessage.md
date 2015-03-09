@@ -1,11 +1,12 @@
-Poetry
-is 
-waiting
-on
-Text message.
+Poetry  
+is  
+waiting  
+on  
+text message.
 
-Song 
-is 
-the
-delivered
+
+Song  
+is  
+the  
+delivered  
 reply.
