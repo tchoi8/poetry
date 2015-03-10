@@ -1,5 +1,5 @@
 Poetry  
-is my  
+is my
+unwritten
 thinking  
-of you.  
-unwritten.
+of you.
