@@ -1,7 +1,5 @@
 Poetry  
-does  
-not  
-write  
+writes
 itself.
 
 Poetry  
