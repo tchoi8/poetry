@@ -10,3 +10,5 @@ is
 the  
 delivered  
 reply.
+
+ poetry text message += cracked screen
