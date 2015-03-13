@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Poetry  
 Serves  
 Purpose...<br>
