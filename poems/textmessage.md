@@ -1,9 +1,9 @@
-Poetry  
-is  
-waiting  
-on  
-text message.
+```
+Poetry is  
+   a text message  
+   anticipated.
 
+<<<<<<< HEAD
 
 Song  
 is  
@@ -14,3 +14,9 @@ reply.
  poetry text message += cracked screen  
  cracked screen => message lost  
  heart = broken  
+=======
+Song is the  
+   delivered  
+   reply.
+```
+>>>>>>> dphiffer-master

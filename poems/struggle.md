@@ -1,7 +1,11 @@
+```
 Poetry  
-is  
-Patience.  
+    is  
+    patience.  
+
+
 Struggle  
-to keep
-effectively 
-useless. 
+    to keep  
+    effectively  
+        useless. 
+```

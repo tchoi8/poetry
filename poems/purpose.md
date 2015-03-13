@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Poetry  
 Serves  
 Purpose...<br>
@@ -12,3 +13,4 @@ Purpose...<br>
 but<br>
 happy<br>
 not to.
+ 
