@@ -1,6 +1,6 @@
 Poetry  
 is  
-Patience.  
+patience.  
 
 
 Struggle  
