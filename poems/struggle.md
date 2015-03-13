@@ -1,7 +1,9 @@
 Poetry  
 is  
 Patience.  
+
+
 Struggle  
-to keep
-effectively 
+to keep  
+effectively  
 useless. 
