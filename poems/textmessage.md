@@ -1,12 +1,9 @@
-Poetry  
-is  
-waiting  
-on  
-text message.
+```
+Poetry is  
+   a text message  
+   anticipated.
 
-
-Song  
-is  
-the  
-delivered  
-reply.
+Song is the  
+   delivered  
+   reply.
+```
