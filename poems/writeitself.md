@@ -1,10 +1,12 @@
+```
 Poetry  
-writes
-itself.
+   writes
+   itself.
 
 Poetry  
-finds  
-a place  
-it  
-can  
+   finds  
+   a place  
+   it
+     can  
 be.
+```
