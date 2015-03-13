@@ -7,5 +7,5 @@ Poetry
 Empty space  
    between  
    the  
-          WORDS.
+          W O R D S.
 ```
