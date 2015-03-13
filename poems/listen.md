@@ -1,7 +1,7 @@
 Poetry finds People  
-       who will listen
+       who will listen  
     to them.
 
 People find poetry  
-       which will show itself
+       which will show itself  
     to them.
