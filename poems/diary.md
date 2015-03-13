@@ -1,5 +1,5 @@
 Poetry  
-come  
+comes  
 in  
 an  
 envelope.
@@ -9,4 +9,4 @@ Diary
 comes  
 in  
 a  
-Package.
+package.
