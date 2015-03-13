@@ -18,5 +18,3 @@ reply.
 Song is the  
    delivered  
    reply.
-```
->>>>>>> dphiffer-master
