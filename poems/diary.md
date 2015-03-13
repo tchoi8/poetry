@@ -1,12 +1,12 @@
+```
 Poetry  
-comes  
-in  
-an  
-envelope.
+   comes  
+       in  
+       an envelope.
 
 
 Diary  
-comes  
-in  
-a  
-package.
+   comes  
+     in  
+     a package.
+```
