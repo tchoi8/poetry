@@ -1,4 +1,4 @@
-Poetry finds People  
+Poetry finds people  
        who will listen  
     to them.
 
