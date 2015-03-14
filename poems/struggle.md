@@ -1,11 +1,11 @@
 ```
-Poetry  
-    is  
-    patience.  
+                                                                                                     yrteoP
+                                                                                                     si
+                                                                                              .ecneitap
 
 
-Struggle  
-    to keep  
-    effectively  
-        useless. 
+                                                                                                   elggurtS
+                                                                                                peek ot
+                                                                                            ylevitceffe
+                                                                                           .sselesu
 ```
