@@ -6,3 +6,9 @@ You push.
 
 We sync.
 We merge.
+
+I detach.
+You commit.
+
+We conflict.
+We fork.
